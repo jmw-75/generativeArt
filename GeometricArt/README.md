@@ -2,4 +2,4 @@ This mini project was done in order to see how shapes can be used in a grid-like
 
 Some results that I can share are below:
 
-![IMG]("results/img1.png")
+<img src ="results/img1.png">
